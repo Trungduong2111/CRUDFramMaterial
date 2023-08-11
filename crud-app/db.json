@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "fistName": "Duong",
+      "lastName": "Nguyen",
+      "email": "duongnguyen@gmail.com",
+      "dob": "2023-07-12T17:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Tmaa",
+      "experience": 5,
+      "package": 3,
+      "id": 2
+    },
+    {
+      "fistName": "A",
+      "lastName": "Nguyen",
+      "email": "nguyena@gmail.com",
+      "dob": "2023-07-10T17:00:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "company": "Tma",
+      "experience": 3,
+      "package": 23,
+      "id": 3
+    }
+  ]
+}
